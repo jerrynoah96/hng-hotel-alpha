@@ -146,22 +146,22 @@ body {
 }
 
 #header3 {
-   background-image: url("images/three.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+   background-image: url("../images/three.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
    background-blend-mode: overlay;
 }
 
 #header4 {
-   background-image: url("images/four.jpg"), linear-gradient(rgba(0, 0, 128, 0.5), rgba(0, 0, 0, 0.5));
+   background-image: url("../images/four.jpg"), linear-gradient(rgba(0, 0, 128, 0.5), rgba(0, 0, 0, 0.5));
    background-blend-mode: overlay;
 }
 
 #header1 {
-   background-image: url("images/one.jpg"), linear-gradient(rgba(0, 0, 128, 0.5), rgba(0, 0, 0, 0.5));
+   background-image: url("../images/one.jpg"), linear-gradient(rgba(0, 0, 128, 0.5), rgba(0, 0, 0, 0.5));
    background-blend-mode: overlay;
 }
 
 #header2 {
-   background-image: url("images/two.jpg"), linear-gradient(rgba(0, 0, 128, 0.3), rgba(0, 0, 0, 0.5));
+   background-image: url("../images/two.jpg"), linear-gradient(rgba(0, 0, 128, 0.3), rgba(0, 0, 0, 0.5));
    background-blend-mode: overlay;
 }
 
